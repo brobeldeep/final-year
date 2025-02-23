@@ -102,8 +102,8 @@ const PrivacyPolicy = () => {
             <p className="text-gray-600">
               For privacy concerns or data requests:
               <br />
-              <a href="mailto:privacy@jowb.com" className="text-blue-600 hover:underline">
-                privacy@jowb.com
+              <a href="mailto:privacy@Outreach.com" className="text-blue-600 hover:underline">
+                privacy@Outreach.com
               </a>
             </p>
           </section>
@@ -122,7 +122,7 @@ const PrivacyPolicy = () => {
             apply.
           </p>
           <p className="text-sm text-gray-500 mt-2">
-            © {new Date().getFullYear()} Jowb. All rights reserved.
+            © {new Date().getFullYear()} Outreach. All rights reserved.
           </p>
         </div>
       </div>

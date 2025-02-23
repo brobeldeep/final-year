@@ -97,7 +97,7 @@ const ClaudeLanding = () => {
     {
       id: 'what',
       question: 'What is Claude and how does it work?',
-      answer: 'Claude is a next-generation AI assistant built by Jowb, designed to help with a wide range of tasks while being safe, accurate, and secure.'
+      answer: 'Claude is a next-generation AI assistant built by Outreach, designed to help with a wide range of tasks while being safe, accurate, and secure.'
     },
     {
       id: 'use',
@@ -151,7 +151,7 @@ const ClaudeLanding = () => {
           <div className="text-center">
             <h1 className="text-4xl font-serif mb-4">Let AI Do The Work</h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Jowb is an innovative AI-powered job search platform designed to streamline and automate the job hunting process. Built with advanced AI agents, it eliminates the need for manual multi-platform applications
+              Outreach is an innovative AI-powered job search platform designed to streamline and automate the job hunting process. Built with advanced AI agents, it eliminates the need for manual multi-platform applications
             </p>
           </div>
         </section>

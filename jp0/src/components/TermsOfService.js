@@ -14,7 +14,7 @@ const TermsOfService = () => {
           <section className="mb-8">
             <h2 className="text-xl font-semibold mb-4 text-gray-800">1. Introduction</h2>
             <p className="text-gray-600 mb-4">
-              Welcome to Jowb ("we," "our," or "us"). These Terms of Service govern your use of our AI-powered job application platform. By accessing or using our services, you agree to be bound by these terms.
+              Welcome to Outreach ("we," "our," or "us"). These Terms of Service govern your use of our AI-powered job application platform. By accessing or using our services, you agree to be bound by these terms.
             </p>
           </section>
 
@@ -34,14 +34,14 @@ const TermsOfService = () => {
           <section className="mb-8">
             <h2 className="text-xl font-semibold mb-4 text-gray-800">3. Intellectual Property</h2>
             <p className="text-gray-600 mb-4">
-              All content on the platform, including logos, text, and software, is the property of Jowb and protected by intellectual property laws. You may not reproduce, modify, or distribute any content without explicit permission.
+              All content on the platform, including logos, text, and software, is the property of Outreach and protected by intellectual property laws. You may not reproduce, modify, or distribute any content without explicit permission.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-xl font-semibold mb-4 text-gray-800">4. Limitation of Liability</h2>
             <p className="text-gray-600 mb-4">
-              Jowb shall not be liable for any indirect, incidental, or consequential damages arising from:
+              Outreach shall not be liable for any indirect, incidental, or consequential damages arising from:
               <ul className="list-disc pl-6 mt-2 space-y-2">
                 <li>Use or inability to use the service</li>
                 <li>Unauthorized access to user data</li>
@@ -76,8 +76,8 @@ const TermsOfService = () => {
             <p className="text-gray-600">
               For questions about these Terms, contact us at:
               <br />
-              <a href="mailto:legal@jowb.com" className="text-blue-600 hover:underline">
-                legal@jowb.com
+              <a href="mailto:legal@Outreach.com" className="text-blue-600 hover:underline">
+                legal@Outreach.com
               </a>
             </p>
           </section>
@@ -96,7 +96,7 @@ const TermsOfService = () => {
             apply.
           </p>
           <p className="text-sm text-gray-500 mt-2">
-            © {new Date().getFullYear()} Jowb. All rights reserved.
+            © {new Date().getFullYear()} Outreach. All rights reserved.
           </p>
         </div>
       </div>

@@ -152,7 +152,7 @@ const faqData = [
           <div className="text-center">
             <h1 className="text-4xl font-serif mb-4">Let AI Do The Work</h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Jowb is an innovative AI-powered job search platform designed to streamline and automate the job hunting process. Built with advanced AI agents, it eliminates the need for manual multi-platform applications
+              Outreach is an innovative AI-powered job search platform designed to streamline and automate the job hunting process. Built with advanced AI agents, it eliminates the need for manual multi-platform applications
             </p>
           </div>
         </section>
@@ -256,7 +256,7 @@ const faqData = [
           {/* Logo Column */}
           <div className="flex items-start">
             <a href="/" className="text-white text-2xl font-bold">
-              JOWB
+              Outreach
             </a>
           </div>
 

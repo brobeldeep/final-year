@@ -21,7 +21,7 @@ const Footer = () => {
           {/* Logo Column */}
           <div className="flex items-start">
             <a href="/" className="text-white text-2xl font-bold">
-              Jowb
+              Outreach
             </a>
           </div>
 
