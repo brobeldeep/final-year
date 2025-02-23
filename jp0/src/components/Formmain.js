@@ -105,10 +105,10 @@ const Formmain = () => {
             className="mb-4 w-[50px] h-[50px]"
           />
           <h1 className="text-4xl lg:text-5xl font-geist font-bold text-center mb-4">
-            Your Career, Accelerated
+            Your Clients, Accelerated
           </h1>
           <p className="text-s text-center mb-8 font-geist">
-            AI that automates your job applications from resume parsing to personalized email submissions so you can focus on preparing for interviews.
+          AI that automates portfolio management, client outreach, and business development—integrating past projects, client needs, and real-time job market data to drive better engagements.
           </p>
           
           <div className="bg-[#faf9f5] p-8 rounded-3xl shadow-lg w-full border border-[#e5e5e5]">

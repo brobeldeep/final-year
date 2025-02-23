@@ -111,15 +111,15 @@ const ClaudeLanding = () => {
 const faqData = [
   {
     id: 'what',
-    question: 'What is this automated job application platform and how does it work?',
+    question: 'What is this AI-powered outreach platform and how does it work?',
     answer:
-      'Our platform is an AI-powered solution that completely automates the job application process. Simply upload your resume and provide your email credentials, and our system will parse your resume, generate personalized application emails, and submit applications to multiple companies on your behalf.'
+      'Our platform automates client outreach and portfolio management. Simply upload your portfolio, and our AI will match your projects to relevant opportunities, generate personalized emails, and send targeted pitches—saving you time and effort.'
   },
   {
     id: 'setup',
     question: 'What do I need to get started?',
     answer:
-      'Getting started is easy! All you need is your updated resume and your email login credentials. Once you provide these, our AI takes over—handling resume parsing, custom email creation, and application submissions—so you can focus on preparing for interviews.'
+      'Just upload your portfolio, and our AI will handle the rest—matching projects to opportunities, crafting personalized emails, and automating outreach, so you can focus on closing deals.'
   },
   {
     id: 'cost',
@@ -152,7 +152,7 @@ const faqData = [
           <div className="text-center">
             <h1 className="text-4xl font-serif mb-4">Let AI Do The Work</h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Outreach is an innovative AI-powered job search platform designed to streamline and automate the job hunting process. Built with advanced AI agents, it eliminates the need for manual multi-platform applications
+            Outreach is an AI-powered platform that automates client outreach and portfolio management, intelligently matching past projects with real-time opportunities.
             </p>
           </div>
         </section>
@@ -163,21 +163,20 @@ const faqData = [
     <div className="space-y-4">
       <div className="flex items-center space-x-3">
         <FileText className="h-6 w-6" />
-        <h2 className="text-2xl font-serif">Effortless Resume Parsing</h2>
+        <h2 className="text-2xl font-serif">Smart Portfolio Mapping</h2>
       </div>
       <p className="text-gray-600">
-        Upload your resume and let our AI quickly extract your skills, experience, and career goals, setting the stage for targeted applications.
-      </p>
+      Upload your portfolio, and let our AI match your projects, skills, and experience to the right opportunities effortlessly. </p>
     </div>
 
     {/* Feature 2: Personalized Application Emails */}
     <div className="space-y-4">
       <div className="flex items-center space-x-3">
         <MessageSquare className="h-6 w-6" />
-        <h2 className="text-2xl font-serif">Custom Application Emails</h2>
+        <h2 className="text-2xl font-serif">Personalized Client Outreach</h2>
       </div>
       <p className="text-gray-600">
-        Our system generates tailored emails for each job opportunity, ensuring your application perfectly aligns with the job requirements.
+      Our AI crafts tailored emails for each opportunity, ensuring your outreach aligns perfectly with client needs.
       </p>
     </div>
 
@@ -185,10 +184,10 @@ const faqData = [
     <div className="space-y-4">
       <div className="flex items-center space-x-3">
         <Users className="h-6 w-6" />
-        <h2 className="text-2xl font-serif">Automated Submissions</h2>
+        <h2 className="text-2xl font-serif">Seamless Outreach Automation</h2>
       </div>
       <p className="text-gray-600">
-        With a single setup, our platform sends your applications to multiple companies—eliminating tedious manual submissions and saving you time.
+      With one setup, our platform sends personalized client pitches—eliminating manual effort and maximizing efficiency.
       </p>
     </div>
   </div>
@@ -205,10 +204,10 @@ const faqData = [
   price="0"
   period="Limited offer for first 10 users"
                 features={[
-                  "50 emails per day",
-    "Basic resume parsing",
-    "Limited personalized application emails",
-    "Access to core features"
+                 "50 emails per day",
+"Basic portfolio matching",
+"Limited personalized outreach emails",
+"Access to core features"
                 ]}
               />
                 {/* Pro Plan */}
@@ -219,12 +218,12 @@ const faqData = [
  period="Per week"
  monthly="150rs billed weekly"
  features={[
-   "1000 emails per day",
-   "Full security with spam prevention",
-   "Advanced resume parsing",
-   "Send documents (CV and resume) with applications",
-   "Early access to new features",
-   "Priority support and additional benefits"
+   "1,000 emails per day",
+"Spam prevention & full security",
+"Advanced portfolio matching",
+"Send project documents & case studies",
+"Early access to new features",
+"Priority support & exclusive perks"
  ]}
         />
 
